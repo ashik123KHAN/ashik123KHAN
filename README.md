@@ -4,7 +4,6 @@
 <img align ="right" alt="coding" width="400" src="https://miro.medium.com/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashik123khan&label=Profile%20views&color=0e75b6&style=flat" alt="ashik123khan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashik123khan" alt="ashik123khan" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://my-certificate-ashik-khan.my.canva.site/brand-designer-portfolio-website-in-beige-black-bronze-warm-classic-style](https://my-certificate-ashik-khan.my.canva.site/brand-designer-portfolio-website-in-beige-black-bronze-warm-classic-style)
 
